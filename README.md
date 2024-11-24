@@ -3,7 +3,7 @@
 
 <h2>🙋‍♂️ About me</h2>
 
-- [HackerRank Profile](https://www.hackerrank.com/profile/luc_ledoux1)
+- [HackerRank](https://www.hackerrank.com/profile/luc_ledoux1)
 - [LinkedIn](https://www.linkedin.com/in/luc-ledoux/)
 
 
