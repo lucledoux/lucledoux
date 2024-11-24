@@ -26,7 +26,7 @@
 
 <h2>🗒️ Certifications</h2>
 
-- [Yale - Financial Markets](https://github.com/lucledoux/pdf_files/blob/main/Certification-Financial%20Markets-Yale.pdf)
+- [Yale - Financial Markets](https://lucledoux.github.io/pdf_files/Certification-Financial%20Markets-Yale.pdf)
   
 <h2> 🤳 Connect with me:</h2>
 
