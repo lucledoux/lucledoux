@@ -16,6 +16,8 @@
 
 <h3>◇ Algorithmic Trading</h3>
 
+- <b>Mean reversion</b>
+  - [expected 12/05/24]()
 - <b>Moving Average Signals</b>
   - [expected 12/05/24]()
 
