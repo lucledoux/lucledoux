@@ -1,16 +1,29 @@
 <h1>Hi, I'm Luc! <br/><a href="https://www.linkedin.com/in/luc-ledoux/">Student in Engineering and Financial Markets</a>
 </h1>
 
-<h2>About me</h2>
+<h2>👨‍🎓 About me</h2>
 
 - [HackerRank Profile](https://www.hackerrank.com/profile/luc_ledoux1)
 - [LinkedIn](https://www.linkedin.com/in/luc-ledoux/)
 
 
-<h2>👨‍💻 Programming Projects</h2>
+<h2>👨‍💻 Projects</h2>
+
+<h3>◇ Derivatives</h3>
+
+- <b>Pricing and Hedging from European to Quanto Options</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h3>◇ Algorithmic Trading</h3>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h3>◇ Statistics</h3>
+
+- [Betting Model for Football matches (2021-2022)](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
 
 <h2>💡Algo Trading Projects</h2>
 
