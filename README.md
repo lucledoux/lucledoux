@@ -23,7 +23,7 @@
 
 <h3>◇ Statistics</h3>
 
-- [Betting Model for Football matches (2021-2022)]()
+- [Betting Model for Football matches (2021-2022)](https://github.com/lucledoux/statistics)
 
 
 <h2>🗒️ Certifications</h2>
