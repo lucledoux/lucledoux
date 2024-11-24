@@ -21,7 +21,7 @@
 
 <h3>◇ Statistics</h3>
 
-- [Betting Model for Football matches (2021-2022)](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Betting Model for Football matches (2021-2022) expected 11/30/24]()
 
 
 <h2>🗒️ Certifications</h2>
