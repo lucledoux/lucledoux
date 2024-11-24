@@ -11,8 +11,8 @@
 
 <h3>◇ Derivatives</h3>
 
-- <b>Pricing and Hedging from European to Quanto Options</b>
-  - [Praciting DS & Algos in Python](https://github.com/lucledoux/MultiCurrencyOptionPricer/tree/main)
+- <b>Pricing and Hedging</b>
+  - [Quanto and Basket Options](https://github.com/lucledoux/MultiCurrencyOptionPricer)
 
 <h3>◇ Algorithmic Trading</h3>
 
