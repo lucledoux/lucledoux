@@ -30,10 +30,3 @@
 
 - [Yale - Financial Markets](https://lucledoux.github.io/pdf_files/Certification-Financial%20Markets-Yale.pdf)
   
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[email]: https://twitter.com/joshmadakor
-[linkedin]: https://www.linkedin.com/in/luc-ledoux/
