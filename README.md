@@ -18,7 +18,7 @@
 
 - <b>Mean reversion</b>
   - [expected 12/31/24]()
-- <b>Moving Average Signals</b>
+- <b>Crossing Moving Average</b>
   - [expected 12/31/24]()
 
 <h3>◇ Statistics</h3>
