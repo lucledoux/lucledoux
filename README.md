@@ -17,9 +17,9 @@
 <h3>◇ Algorithmic Trading</h3>
 
 - <b>Mean reversion</b>
-  - [expected 12/31/24]()
+  - [soon]()
 - <b>Crossing Moving Average</b>
-  - [expected 12/31/24]()
+  - [soon]()
 
 <h3>◇ Statistics</h3>
 
