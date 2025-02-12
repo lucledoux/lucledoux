@@ -11,6 +11,9 @@
 
 <h3>◇ Derivatives</h3>
 
+- <b>Options</b>
+  - [Gamma Hedger](https://github.com/lucledoux/MultiCurrencyOptionPricer)
+
 - <b>Pricing and Hedging</b>
   - [Quanto and Basket Options](https://github.com/lucledoux/MultiCurrencyOptionPricer)
 
